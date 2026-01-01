@@ -1,0 +1,37 @@
+{
+    "files.autoSave": "afterDelay",
+    "haskell.manageHLS": "GHCup",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "bash (2)": {
+            "path": "/usr/bin/bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "bash (2)",
+    "remote.SSH.remotePlatform": {
+        "192.168.0.179": "linux"
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+     "markdown-pdf.footerTemplate": "<span></span>",
+"markdown-pdf.headerTemplate": "<span></span>",
+"markdown-pdf.styles": [],
+"markdown-pdf.includeHeader": "",
+"markdown-pdf.includeFooter": ""
+}
